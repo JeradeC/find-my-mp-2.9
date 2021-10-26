@@ -1,4 +1,4 @@
-# tutorial-find-my-mp-2.9
+# Tutorial Find My Mp
 Finding information on the MPs of Canada by city-wards
 To run the app "yarn" and then "yarn start"
 
